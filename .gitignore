@@ -4,6 +4,8 @@ node_modules
 # Adonis directory for storing tmp files
 tmp
 
+Credentials
+
 # Environment variables, never commit this file
 .env
 
